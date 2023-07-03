@@ -52,4 +52,4 @@ Please ensure that your code follows the project's coding conventions and has ap
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE). 
